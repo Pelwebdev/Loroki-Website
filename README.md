@@ -1,1 +1,1 @@
-# Loroki-Website
+# Loruki-Website
